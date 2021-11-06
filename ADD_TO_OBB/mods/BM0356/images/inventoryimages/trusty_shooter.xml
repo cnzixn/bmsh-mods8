@@ -1,0 +1,7 @@
+<Atlas>
+	<Texture filename="trusty_shooter.tex" />
+    <Elements>
+<Element name="trusty_shooter.tex" u1="0" u2="0.5" v1="0" v2="1" />
+<Element name="trusty_shooter_unloaded.tex" u1="0.5" u2="1" v1="0" v2="1" />
+    </Elements>
+</Atlas>
